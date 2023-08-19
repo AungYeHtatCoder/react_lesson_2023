@@ -1,6 +1,7 @@
 npm install -g create-react-app
 create-react-app --version
 npx create-react-app my-react-app
+create-react-app 2_lesson_prop
 
 
 imr
