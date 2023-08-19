@@ -1,3 +1,11 @@
 npm install -g create-react-app
 create-react-app --version
 npx create-react-app my-react-app
+
+
+imr
+rec
+rcom
+rce
+rconst
+clg (console)
